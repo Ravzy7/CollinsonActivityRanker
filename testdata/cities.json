@@ -1,0 +1,10 @@
+[
+  { "name": "Honolulu", "country_code": "US" },
+  { "name": "Gold Coast", "country_code": "AU" },
+  { "name": "Zermatt", "country_code": "CH" },
+  { "name": "Banff", "country_code": "CA" },
+  { "name": "Barcelona", "country_code": "ES" },
+  { "name": "Cape Town", "country_code": "ZA" },
+  { "name": "London", "country_code": "GB" },
+   { "name": "Aspen", "country_code": "US" }
+]
