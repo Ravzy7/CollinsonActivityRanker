@@ -223,7 +223,7 @@ You can also manually validate scenarios listed in
 
 **Raval Ramkhelawan**  
 Test Automation Engineer  
-📧 [your.email@example.com]
+📧 [raval.ramkhelawan@gmail.com]
 
 ---
 
